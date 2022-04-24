@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<meta charset="utf-8">
+<meta name="viewport" content=" width=device-width, inital-scale=1">
+<title>Hello World!</title>
+    </head>
+    <h1>Welcome To My Very First Page.</h1>
+    <head>
+    <body>
+<h2>Introduction.</h2>
+<p>My name is Wilmer Montero, I work as an IT technician for the past six years, and this is my first attempt to learn something new. 
+    <br>I am a Garifuna as now called the Afro-Caribbean.
+     <p style="color:rgb(194, 34, 34)" >To be completely honest I don't like the word "Afro-Caribbean" 
+    </p>
+    </p>It's not like we carry an "afro" you know!
+    The best way to refer to us is by Garifuna people as our 
+    <a href="http://garifunaresearch.org/">language name.
+    </a>
+    <br><a href="https://en.wikipedia.org/wiki/Garifuna">The Garifuna people</a> originated with the arrival of West African slaves who washed ashore in the Caribbean island of 
+    <a href="https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines"> St Vincent.
+    </a>
+     <p>Garifunas mainly live mostly on coastal towns and villages in the Central American countries of Belize, Guatemala, Honduras, and Nicaragua. 
+     <br>Some Garifunas live alongside the Creole population in main towns.
+
+     <p>Garifuna <a href="https://en.wikipedia.org/wiki/Community">communities</a> live mainly on agriculture, fishing, and foreign remittances sent by relatives abroad. 
+        <br>Some are also involved in the technical trades. 
+        Garifuna who live in the rural areas mainly pursues a subsistence lifestyle, 
+        <br>while those in the urban areas live similarly to their Creole neighbors, pursuing professional occupations.
+    </p>
+</p>
+<div>
+    <h3>Garifuna Ancestors:</h3>
+    <ol>
+     <ul><li>Who are the Arawak people?</li></ul>
+     <li><a href="https://en.wikipedia.org/wiki/Arawak">Arawak.</a></li>
+     <ul><li>Who are the Kalinago people? </li></ul>
+     <li><a href="https://en.wikipedia.org/wiki/Kalinago">Kalinago.</a></li>
+     <ul><li>Who are the West African people? </li></ul>
+     <li><a href="https://www.britannica.com/place/Africa/People">West African.</a></li>
+    </ol>
+</div>
+<h4>
+    <b>*****Click on the picture to watch a Garifuna video documentary*****</b>
+</h4>
+ <a href="https://www.youtube.com/watch?v=hXb2p2WgHxI"><img src="junkanoo-16.jpg" /></a>
+    </body>
+<h4>
+    
+    <b> 
+        <a href="https://en.wikipedia.org/wiki/Punta">***Grarifuna Dance***</b> 
+        </a>
+</h4>
+  <p> 
+      <br><video Controls>
+     yuiu<source src="X2Download.com-Kazzabe x Clayton Williams - Garifuna Soy [Video Oficial] 🇭🇳 Conexión Garifuna.mp4" type="video/ogg"/> 
+        </video>
+        </p>
+
+</html>
